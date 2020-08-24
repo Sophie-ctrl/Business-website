@@ -1,2 +1,2 @@
 # Business-website
-This is a small website that I have created with bootstrap.
+This is the original verson of the website that I have created for Cogitare with bootstrap.
